@@ -9,3 +9,4 @@ python3 -m pytest
 '''
 - пункт 1
 - пункт 2
+- geyrn 3
